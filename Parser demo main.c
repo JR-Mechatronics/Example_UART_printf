@@ -15,6 +15,7 @@
 volatile bool handlingDoubleCommand;
 volatile int16_t parsedValue;
 
+//bears
 
 // halts the watchdog timer
 void disableWDT(){
